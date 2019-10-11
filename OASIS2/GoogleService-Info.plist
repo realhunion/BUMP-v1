@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104372302396-l5ar5vojmlsahromr2r4m0uli0004inl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104372302396-l5ar5vojmlsahromr2r4m0uli0004inl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1eo2YKjA6QZURXVh-QMTE0DZo8qyLsUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104372302396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.theDevHoney.OASIS002</string>
+	<key>PROJECT_ID</key>
+	<string>oasis-002</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oasis-002.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104372302396:ios:279650e7db4d5160</string>
+	<key>DATABASE_URL</key>
+	<string>https://oasis-002.firebaseio.com</string>
+</dict>
+</plist>
